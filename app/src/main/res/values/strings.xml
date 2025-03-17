@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Practice06TeamsManagement</string>
+    <string-array name="photo">
+        <item>naturr1.jpg</item>
+        <item>brett-meliti-SR98VcqBlqY-unsplash.jpg</item>
+        <item>mos-design-tSzR14EWifM-unsplash.jpg</item>
+    </string-array>
+</resources>
